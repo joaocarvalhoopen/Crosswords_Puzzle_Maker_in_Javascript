@@ -13,6 +13,7 @@ Implement a feature to automatically stop processing after a predetermine time e
 
 # References
 * [Wikipedia - Crossword](https://en.wikipedia.org/wiki/Crossword)
+* [The BackTracking Algorithm](https://github.com/joaocarvalhoopen/The_BackTracking_Algorithm)
 * [Algorithm to generate a crossword](https://stackoverflow.com/questions/943113/algorithm-to-generate-a-crossword)
 * [Source of words to make crosswords in several languages](http://www.gwicks.net/dictionaries.htm)
 
